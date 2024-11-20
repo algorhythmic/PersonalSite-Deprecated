@@ -4,6 +4,7 @@ My personal website hosts data science projects, pictures from travel, and my th
 
 The theme of the website is from [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll).
 
+*DEPRECATED*
 
 ## Demo
 
