@@ -1,10 +1,9 @@
-# Welcome to my webpage repository
+# Welcome to my webpage repository *DEPRECATED*
 
 My personal website hosts data science projects, pictures from travel, and my thoughts on different subjects in a blog.
 
 The theme of the website is from [Flexible-Jekyll](https://github.com/artemsheludko/flexible-jekyll).
 
-*DEPRECATED*
 
 ## Demo
 
